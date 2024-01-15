@@ -1,4 +1,5 @@
 # profanity-tron
-<p hidden>
+<details><summary>
 ![Visitor Count](https://profile-counter.glitch.me/{sponsord}/count.svg)
-</p>
+</summary>
+</details>
