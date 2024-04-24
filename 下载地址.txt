@@ -2,7 +2,7 @@
 https://mega.nz/file/ljkG3S5B#b54B9zKTXTZnbOccnez3JFVzSOwn29QazO4YIqWY6ME
 
 下载地址2：
-https://gitee.com/profanity-tron/tron-gpu/releases/download/v2.0/windows-TRON.zip
+https://gitee.com/eth_gpu/profanity-tron/releases/download/windows/windows-TRON.zip
 
 
 
